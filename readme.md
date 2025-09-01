@@ -26,7 +26,7 @@ From the project root (the folder that contains `src/` and `data/`):
 ```bash
 javac src/org/howard/edu/lsp/assignment2/ETLPipeline.java
 java -cp src org.howard.edu.lsp.assignment2.ETLPipeline
-
+```
 ## AI Usage
 I used ChatGPT mainly to clarify assignment requirements, assist me with writing the pipeline, and stay on track. For example, I asked about whether this code should go in the same file as Assignment 1 and how to create the CSV files to run the program. ChatGPT’s response explained the correct folder structure and gave me a sample products.csv, which I used to test my code. I also asked for help drafting a README. The responses gave me structure and examples, but I rewrote everything in my own words, adjusted the code to fit the rubric, and tested the program myself to make sure it worked as required.
 
